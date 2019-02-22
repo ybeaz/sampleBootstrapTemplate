@@ -1,2 +1,0 @@
-# sampleBootstrapTemplate
-Created with CodeSandbox
